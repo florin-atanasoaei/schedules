@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "start": 1652677224284,
+      "end": 1668700824000,
+      "weekDays": {
+        "1": true,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": false
+      },
+      "yearMonths": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true
+      },
+      "propertyName": "Salon Massage",
+      "employee": {
+        "id": "1",
+        "labelColor": "#dde216",
+        "name": "John Smith"
+      },
+      "id": 1
+    }
+  ]
+}
